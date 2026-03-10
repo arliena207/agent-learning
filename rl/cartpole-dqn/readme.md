@@ -1,0 +1,2 @@
+python3 -m venv rl_env
+source rl_env/bin/activate
