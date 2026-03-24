@@ -1,7 +1,5 @@
 # Does RL improve reasoning 论文阅读笔记
 
-## 重要信息
-
 ### 论文标题
 
 **Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**
