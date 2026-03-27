@@ -43,6 +43,15 @@ agent-learning/
 
 - `vision-rl-agent/`：视觉感知 + 决策融合 Agent 项目目录（待实现）。
 
+### `papers/`
+
+- `thinkrl-notes.md`：ThinkRL-Edit 论文阅读笔记。  
+- `Does RL improve reasoning-notes.md`：关于 RL 是否真正提升推理能力的阅读笔记。  
+- `chain of visual thought-notes.md`：CoVT（Chain-of-Visual-Thought）论文阅读笔记。  
+- `Direct-Align & SRPO-notes.md`：Direct-Align / SRPO 相关论文阅读笔记。  
+- `dqn-notes.md`：DQN 论文基础笔记。  
+- `ppo-notes.md`：PPO 论文笔记（待补充）。
+
 
 ## 四、目前完成进度
 
@@ -67,6 +76,8 @@ agent-learning/
 - `ppo-notes.md`：已创建，待补充内容。
 - `Does RL improve reasoning-notes.md`：已完成结构化笔记。
 - `thinkrl-notes.md`：已完成结构化笔记。
+- `chain of visual thought-notes.md`：已完成结构化笔记。
+- `Direct-Align & SRPO-notes.md`：已完成结构化笔记。
 
 ### `reports/`
 
